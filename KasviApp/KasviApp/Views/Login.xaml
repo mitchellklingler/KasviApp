@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KasviApp.Views.Login">
+    <Grid>
+        <ScrollView>
+            <StackLayout>
+
+                <StackLayout Padding="30" Spacing="2" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+                    <Label Text="Usuário" TextColor="#555" FontSize="20" FontAttributes="Bold"/>
+                    <Entry Keyboard="Default" Placeholder="Entre com o usuário" PlaceholderColor="#CCC"/>
+                    <Label Text="Senha" TextColor="#555" FontSize="20" FontAttributes="Bold"/>
+                    <Entry Keyboard="Default" Placeholder="Entre com a senha" IsPassword="True" PlaceholderColor="#CCC" FontSize="20" TextColor="#555"/>
+
+                </StackLayout>
+                <StackLayout>
+                    <Button x:Name="BtnLogin" Text="Login" BorderColor="#CB9600" BackgroundColor="#F4B400" Clicked="BtnLogin_Clicked"/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+
+        <ActivityIndicator x:Name="ActivityIndicator" IsRunning="{Binding IsBusy}" VerticalOptions="Center" HorizontalOptions="Center" Color="Blue" />
+    </Grid>
+</ContentPage>

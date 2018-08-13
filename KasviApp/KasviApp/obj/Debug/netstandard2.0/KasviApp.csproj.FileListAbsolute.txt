@@ -1,0 +1,17 @@
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\bin\Debug\netstandard2.0\KasviApp.deps.json
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\bin\Debug\netstandard2.0\KasviApp.dll
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\bin\Debug\netstandard2.0\KasviApp.pdb
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\KasviApp.csproj.CoreCompileInputs.cache
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\KasviApp.AssemblyInfoInputs.cache
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\KasviApp.AssemblyInfo.cs
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\KasviApp.dll
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\KasviApp.pdb
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Android\Aula\KasviApp\KasviApp\KasviApp\obj\Debug\netstandard2.0\KasviApp.csprojAssemblyReference.cache
